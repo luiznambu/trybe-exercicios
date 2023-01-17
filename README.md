@@ -1,1 +1,2 @@
-# trybe-exerciciosRepositorio de exercicios da trybe
+# trybe-exercicios
+Repositorio de exercicios da trybe
